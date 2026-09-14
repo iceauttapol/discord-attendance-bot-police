@@ -159,5 +159,5 @@ def keep_alive():
 keep_alive()
 
 bot.run(
-    "MTU0ODc3NjU5MzgxMDI2ODIzNQ.GveY3B.KJwRGKWMFa8b3MTBGd7cB00rU7-nzq1z3qaltc"
+    "MTU0ODc3NjU5MzgxMDI2ODIzNQ.GYFKnn.GkqgRe3bTU3eekygYQUGHpExsFldelO7cyfVYs"
 )
